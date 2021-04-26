@@ -1,4 +1,4 @@
-Distanziamento,NumeroPassiV,ID giorno,ID Turtle,Femmina,Età,Peso,malata,Viva
+Distanziamento,NumeroPassiV,ID giorno,ID Turtle,Femmina,Eta,Peso,malata,Viva
 20,10,0,0,False,66,132,True,True
 20,10,0,1,False,16,53,False,True
 20,10,0,2,True,62,149,False,True
